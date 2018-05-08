@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # probot
-- project: probot
+- project: probot1
   role: Contributor
   duration: 2016 &mdash; Present
   url: "https://github.com/probot/probot"
